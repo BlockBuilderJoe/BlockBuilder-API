@@ -13,10 +13,10 @@ def targetAPI(prompt, openAI_api_key):
     url = "https://target.blockbuilders.host"
     headers = {
         "openai-api-key": openAI_api_key,
-        "Content-Type": "application/json",
+        "Content-Type": "application/json"
     }
     data = {
-        "prompt": prompt,
+        "prompt": prompt
     }
     try:
         response = requests.post(url, headers=headers, data=json.dumps(data))
