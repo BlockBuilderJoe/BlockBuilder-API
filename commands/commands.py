@@ -11,7 +11,7 @@ def get_api_key():
 
 def intentAPI(prompt, openAI_api_key):
     """Get the intent of a prompt """
-    url = f"https://intent.blockbuilders.host"
+    url = "https://intent.blockbuilders.host"
     headers = {
         "openai-api-key": openAI_api_key,
         "Content-Type": "application/json",
@@ -39,7 +39,7 @@ def commandAPI(prompt, openAI_api_key):
     if intention is None:
         return None
         
-    url = f"https://commands.blockbuilders.host"
+    url = "https://commands.blockbuilders.host"
     headers = {
         "openai-api-key": openAI_api_key,
         "Content-Type": "application/json",
