@@ -1,4 +1,4 @@
-### BlockBuilder-AI-API
+### BlockBuilders AI API Usage Guide
 
 ## What is it?
 A guide for how to use the APIs of our Blockbuilder AI. With a bunch of getting started scripts to give you a start for playing with it yourself.
