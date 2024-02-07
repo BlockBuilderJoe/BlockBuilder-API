@@ -7,7 +7,6 @@
 	Click the button in the right hand side:  🚀Deploy
 	![[img/Screenshot 2024-02-07 at 10.14.39.png]]
 	
-
 2.  Set it up like the image below and click the button: Create a Deployment 
 	   Please note it requires an **Nvidia A40 GPU as a minimum** - the performance scales well with higher cards but it has the best price to performance with the A40 Tier
    ![[img/Screenshot 2024-02-07 at 10.15.53.png]]
@@ -60,7 +59,6 @@ The JSON object comprises the following main components:
 - `blocks`: An array of block objects.
 - `boundingbox`: An object containing information about the bounding box of the blocks.
 ### `blocks` Array
-
 Each item in the `blocks` array is an object that represents a single block within the structure. The attributes of each block object include:
 
 - `x`: Integer. The x-coordinate of the block's position in game.
@@ -68,7 +66,6 @@ Each item in the `blocks` array is an object that represents a single block with
 - `z`: Integer. The z-coordinate of the block's position in game.
 - `name`: String. The internal name of the block used in commands.
 - `display_name`: String. The human-readable name of the block.
-
 #### Example:
 
 ```json
