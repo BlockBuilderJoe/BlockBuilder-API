@@ -5,7 +5,7 @@ A demo of a series of APIs that are ChatGPT based Minecraft Experts. It can buil
 
 This is the backbone of BlockBuilder AI (coming soon)
 
-Below is a guide for how to use the APIs of our Blockbuilder AI. With a bunch of getting started scripts to give you a headstart for playing with it yourself.
+Below is a guide for how to use the APIs it has a number of getting started scripts to give you a headstart for playing with it yourself.
 
 ## How does it work? 
 There are six different APIs that take a prompt as an input and are trained in a particular Minecraft specialism:
