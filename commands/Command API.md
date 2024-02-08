@@ -8,7 +8,6 @@ https://commands.blockbuilders.host
 ### Request Format
 - prompt = What you want BlockBuilder AI to do 
 - intent = What command to use. 
-
 **📝 Note:** The demo relies on the [Understand API](../understand/Understand%20API.md) for the intent.
 ```javascript
 {
@@ -16,7 +15,12 @@ https://commands.blockbuilders.host
         "intent": intention,
 }
 ```
- 
+## Output
+Returns a command object with the string of a Minecraft command.
+```javascript
+{ command: 'tp @s 100 100 1000' }
+```
+
 ## Getting started.
 
 **📝 Note:** What you'll need to use this demo:
@@ -25,7 +29,6 @@ https://commands.blockbuilders.host
   - [ ] Python or Node.js installed on your computer
 ## ⚠️ Important Security Warning
 **Please use a burner API key for this demo.** Do not use your primary API key. A burner API key is a temporary key that you can easily revoke or discard after playing with the demo.
-
 
 1. Save your API key to the local environment:
 ```shell
@@ -50,11 +53,6 @@ Python
 ```shell
 cd commands
 python command.py
-```
-## Output
-Returns a command object with the string of a Minecraft command.
-```javascript
-{ command: 'tp @s 100 100 1000' }
 ```
 
 ## Commands still to implement
