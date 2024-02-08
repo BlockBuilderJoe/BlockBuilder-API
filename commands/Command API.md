@@ -1,6 +1,6 @@
 ## BlockBuilders Command API 
 
-Generates a bedrock command.
+Generates a bedrock command from a prompt. 
  
 **📝 Note:** What you'll need to use this demo:
 - **Requirements:**
