@@ -77,7 +77,7 @@ Each item in the `blocks` array is an object that represents a single block with
 #### Example:
 
 ```json
-{ 	"x": 10, "y": 0, "z": 0, "name": "clay", "display_name": "Clay" }
+{ "x": 10, "y": 0, "z": 0, "name": "clay", "display_name": "Clay" }
 ```
 
 ### `boundingbox` Object
