@@ -35,11 +35,11 @@ Returns a target object with the target selector and arguments if necessary.
 export OPENAI_API_KEY=<paste-your-token-here>
 ```
 2. Change the prompt variable:
-For Javascript: target/target.js
+For Javascript: target/target-selector.js
 ```javascript
 let prompt = "pig";
 ```
-For Python: target/target.py
+For Python: target/target-selector.py
 ```python
 prompt = "pig"
 ```
