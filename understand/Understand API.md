@@ -4,15 +4,17 @@ The BlockBuilders Understand API is designed to interpret the intentions of play
 This guide provides details on how to use the API and the responses it can generate.
 
 ## Base URL
-https://understand.blockbuilders.host
+https://intent.blockbuilders.host
 
 ## API Overview
 
 The Understand API takes a prompt from the player and analyzes it to understand the intention. 
 Depending on the analyzed intention, it returns a specific response code that corresponds to an action or information request in Minecraft.
 
-## Response Codes
+## How to use
 
+
+## Response Codes
 The API returns the following response codes, each indicating a specific type of request or action:
 
 - `unknown`: If the intention is unclear or does not match any predefined actions.
@@ -49,5 +51,5 @@ The API returns the following response codes, each indicating a specific type of
 - `tag`: Request to tag an entity.
 - `explain`: Request to explain the capabilities of the API.
 
-## How to use
+
 
