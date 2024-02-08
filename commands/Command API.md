@@ -11,6 +11,7 @@ https://commands.blockbuilders.host
 ### Request Format
 - prompt = What you want BlockBuilder AI to do 
 - intent = What command to use. 
+
 **📝 Note:** The demo relies on the [Understand API](understand/Understand%20API.md) for the intent.
 ```json
 {
