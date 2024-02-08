@@ -1,14 +1,6 @@
 ## BlockBuilders Command API 
 
 Generates a bedrock command from a prompt. 
- 
-**📝 Note:** What you'll need to use this demo:
-- **Requirements:**
-  - [ ] An OpenAI API key
-  - [ ] Python or Node.js installed on your computer
-
-## ⚠️ Important Security Warning
-**Please use a burner API key for this demo.** Do not use your primary API key. A burner API key is a temporary key that you can easily revoke or discard after playing with the demo. 
 
 ## Base URL
 https://commands.blockbuilders.host
@@ -26,6 +18,15 @@ https://commands.blockbuilders.host
 ```
  
 ## Getting started.
+
+**📝 Note:** What you'll need to use this demo:
+- **Requirements:**
+  - [ ] An OpenAI API key
+  - [ ] Python or Node.js installed on your computer
+
+## ⚠️ Important Security Warning
+**Please use a burner API key for this demo.** Do not use your primary API key. A burner API key is a temporary key that you can easily revoke or discard after playing with the demo. 
+
 1. Save your API key to the local environment:
 ```shell
 export OPENAI_API_KEY=<paste-your-token-here>
