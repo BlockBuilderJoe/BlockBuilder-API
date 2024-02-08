@@ -12,7 +12,7 @@ Can build any thing in Minecraft from a single prompt.
 	![[img/Screenshot 2024-02-07 at 10.14.39.png]]
 	
 2.  Set it up like the image below and click the button: Create a Deployment 
-	   Please note it requires an **Nvidia A40 GPU as a minimum** - the performance scales well with higher cards but it has the best price to performance with the A40 Tier
+    > **📝 Note:** Requires an **Nvidia A40 GPU as a minimum** - the performance scales well with higher cards but it has the best price to performance with the A40 Tier
    ![[img/Screenshot 2024-02-07 at 10.15.53.png]]
    
 3. Now you can install Replicate: 
@@ -47,10 +47,12 @@ Or for Python: builder/blockbuilder.py
 6. Now you can run it: 
 For Javascript
 ```shell
-node builder/js_build/blockbuilder.js
+cd builder/js_build
+node blockbuilder.js
 ```
 Or for Python: 
 ```
+cd builder
 python builder/blockbuilder.py
 ```
 ### The API Output
