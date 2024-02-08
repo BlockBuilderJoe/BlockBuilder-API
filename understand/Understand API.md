@@ -4,7 +4,7 @@ The BlockBuilders Understand API is designed to interpret the intentions of play
 This guide provides details on how to use the API and the responses it can generate.
 
 ## Base URL
-https://intent.blockbuilders.host
+https://understand.blockbuilders.host
 
 ### Request Format
 
