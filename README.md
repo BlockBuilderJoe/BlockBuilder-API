@@ -1,7 +1,7 @@
 ### BlockBuilders AI API Usage Guide
-## What is it?
 
-A demo of a series of APIs that are ChatGPT based Minecraft Experts. It can build and write commands for you! 
+## What is it?
+A ChatGPT powered Minecraft expert that can build and write commands for you. 🤯
 
 This is the backbone of BlockBuilder AI (coming soon)
 
