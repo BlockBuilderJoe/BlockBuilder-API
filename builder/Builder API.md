@@ -27,6 +27,7 @@ npm install replicate
 pip install replicate
 ```
 4. Then export your Replicate API key as an environment variable. 
+
 Windows
 ```powershell
 setx REPLICATE_API_TOKEN “<yourkey>”
