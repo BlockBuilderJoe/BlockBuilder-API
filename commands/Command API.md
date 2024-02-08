@@ -47,7 +47,7 @@ python command.py
 ```
 ## Output
 Returns a command object with the string of a Minecraft command.
-```json
+```javascript
 { command: 'tp @s 100 100 1000' }
 ```
 
