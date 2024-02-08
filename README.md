@@ -5,7 +5,7 @@ A ChatGPT powered Minecraft expert that can build and write commands for you.
 
 This is the backbone of BlockBuilder AI (coming soon)
 
-Below is a guide for how to use the APIs it has a number of getting started scripts to give you a headstart for playing with it yourself.
+Below is a guide for how to use the APIs, it has a number of scripts to get you going.
 
 ## Getting Started Guides:
 - [Builder API](builder/Builder%20API.md) - How to use the Builder API
