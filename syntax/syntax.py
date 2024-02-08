@@ -2,7 +2,7 @@ import requests
 import json
 import os
 
-prompt = "the coolest block in the game" #Change to a block, item name or any other prompt you want to test.
+prompt = "banana" #Change to a block, item name or any other prompt you want to test.
 mode = "block" #Change to "item" or "entity" to test for items or entities respectively.
 
 def get_api_key():
