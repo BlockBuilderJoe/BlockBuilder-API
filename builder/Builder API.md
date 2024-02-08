@@ -4,8 +4,11 @@ Can build any thing in Minecraft from a single prompt.
 
 > **Note:** What you'll need to use this demo:
 > - A Replicate account (https://replicate.com)
-> - A card to pay for the Replicate deployment
+> - A Replicate API key
 > - Python or Node.js installed on your computer
+
+## ⚠️ Important Security Warning
+**Please use a burner API key for this demo.** Do not use your primary API key. A burner API key is a temporary key that you can easily revoke or discard after playing with the demo. 
 
 ### Getting Started
 1. Deploy the model using Replicate from here: https://replicate.com/blockbuilderjoe/blockbuilder-shap-e
