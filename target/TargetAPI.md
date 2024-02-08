@@ -13,6 +13,12 @@ prompt = What you want BlockBuilder AI to target.
         "prompt": prompt
 }
 ```
+
+## Output
+Returns a target object with the target selector and arguments if necessary. 
+```javascript
+{ target: '@e[type=pig]' }
+```
  
 ## Getting started.
 
@@ -48,13 +54,3 @@ Python
 cd target
 python target-selector.py
 ```
-## Output
-Returns a target object with the target selector and arguments if necessary. 
-```javascript
-{ target: '@e[type=pig]' }
-```
-
-## Commands still to implement
-- [ ] scoreboard
-- [ ] execute
-- [ ] summon (appears broken)
