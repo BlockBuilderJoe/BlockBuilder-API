@@ -13,11 +13,11 @@ https://commands.blockbuilders.host
 - intent = What command to use. 
 
 **📝 Note:** The demo relies on the [Understand API](../understand/Understand%20API.md) for the intent.
-```json
+```
 {
         "prompt": prompt,
         "intent": intention,
-    }
+}
 ```
  
 ## Getting started.
