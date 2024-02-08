@@ -3,7 +3,7 @@ import json
 import os
 
 prompt = "the coolest block in the game" #Change to a block, item name or any other prompt you want to test.
-mode = "item" #Change to "item" or "entity" to test for items or entities respectively.
+mode = "block" #Change to "item" or "entity" to test for items or entities respectively.
 
 def get_api_key():
     """Get OpenAI API key from environment variables."""
