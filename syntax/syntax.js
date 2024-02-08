@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const prompt = "the coolest block in the game"; //Change to a block, item name or any other prompt you want to test.
-const mode = "item"; //Change to "item" or "entity" to test for items or entities respectively.
+const mode = "block"; //Change to "item" or "entity" to test for items or entities respectively.
 
 function getApiKey() {
     // Get OpenAI API key from environment variables.
