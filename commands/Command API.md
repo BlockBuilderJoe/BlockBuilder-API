@@ -1,8 +1,12 @@
-> [!NOTE] What you'll need to use this demo.
-> - [ ] An OpenAI API key 
-> - [ ] Python or Node.js installed on your computer 
+## BlockBuilders Command overview
 
-Note the demo relies on the [[Understand API]] to return the correct command. 
+**📝 Note:** What you'll need to use this demo:
+- **Requirements:**
+  - [ ] An OpenAI API key
+  - [ ] Python or Node.js installed on your computer
+
+**📝 Note:** The demo relies on the [Understand API](understand/Understand%20API.md) to return the correct command.
+ 
 ## Getting started.
 1. Save your API key to the local environment:
 ```shell
