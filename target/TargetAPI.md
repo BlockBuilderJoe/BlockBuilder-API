@@ -24,7 +24,7 @@ Returns a target object with the target selector and arguments if necessary.
 
 **📝 Note:** What you'll need to use this demo:
 - **Requirements:**
-  - [ ] An Temporary burner OpenAI API key
+  - [ ] A temporary burner OpenAI API key
   - [ ] Python or Node.js installed on your computer
 
 ## ⚠️ Important Security Warning
