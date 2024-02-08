@@ -12,7 +12,7 @@ Generates a Bedrock target selector from a prompt.
 https://target.blockbuilders.host
 
 ### Request Format
-- prompt = What you want BlockBuilder AI to target. 
+prompt = What you want BlockBuilder AI to target. 
 
 ```javascript
 {
