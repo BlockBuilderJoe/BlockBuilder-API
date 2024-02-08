@@ -17,7 +17,7 @@ prompt = What you want BlockBuilder AI to do
 ```
 
 ## API Overview
-The Understand API takes a prompt from the player and analyses it to understand the intention. 
+The Understand API takes a prompt from the player and analyzes it to understand the intention. 
 Depending on the analyzed intention, it returns a specific response code that corresponds to an action or information request in Minecraft.
 
 ## How to use
