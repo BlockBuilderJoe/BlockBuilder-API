@@ -20,9 +20,12 @@ https://syntax.blockbuilders.host
 
 ## How to use the getting started scripts. 
 
-> **Note:** What you'll need to use this demo:
-> - OpenAI API key
-> - Python or Node.js installed on your computer
+**📝 Note:** What you'll need to use this demo:
+- **Requirements:**
+  - [ ] An Temporary burner OpenAI API key
+  - [ ] Python or Node.js installed on your computer
+## ⚠️ Important Security Warning
+**Please use a burner API key for this demo.** Do not use your primary API key. A burner API key is a temporary key that you can easily revoke or discard after playing with the demo.
 
 1. Save your API key to the local environment:
 ```shell
