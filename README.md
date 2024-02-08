@@ -3,7 +3,7 @@
 ## What is it?
 A ChatGPT powered Minecraft expert that can build and write commands for you. 
 
-This is the backbone of BlockBuilder AI (coming soon)
+This is the backbone of BlockBuilder AI (coming soon).
 
 Below is a guide for how to use the APIs, it has a number of scripts to get you going.
 
@@ -16,11 +16,11 @@ There are five different APIs that take a prompt as an input and are trained in 
 - **Target API** - Returns Bedrock target selectors and arguments from a prompt.
   
 ## Getting Started Guides:
-- [Builder API](builder/Builder%20API.md) - How to use the Builder API
-- [Understand API](understand/Understand%20API.md) - How to use the Understand API
-- [Command API](commands/Command%20API.md) - How to use the Command API
-- [Syntax API](syntax/SyntaxAPI.md) - How to use the Syntax API
-- [Target API](target/TargetAPI.md) - How to use the Target API
+- [Builder API](builder/Builder%20API.md) - How to use the Builder API.
+- [Understand API](understand/Understand%20API.md) - How to use the Understand API.
+- [Command API](commands/Command%20API.md) - How to use the Command API.
+- [Syntax API](syntax/SyntaxAPI.md) - How to use the Syntax API.
+- [Target API](target/TargetAPI.md) - How to use the Target API.
 
 ## How it is used in BlockBuilder AI
 ![BlockBuilder AI](img/BlockBuilderAI.png)
