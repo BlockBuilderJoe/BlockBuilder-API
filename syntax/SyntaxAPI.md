@@ -17,6 +17,12 @@ https://syntax.blockbuilders.host
   "mode": "block" 
 }
 ```
+## Output
+It will output a block, entity or item depending on what mode you selected.
+
+```
+{output: 'diamond_block'}
+```
 
 ## How to use the getting started scripts. 
 
@@ -50,13 +56,6 @@ Python
 ```shell
 cd syntax
 python syntax.py
-```
-
-## Output
-It will output a block, entity or item depending on what mode you selected.
-
-```
-{output: 'diamond_block'}
 ```
 
 
