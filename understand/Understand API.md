@@ -7,11 +7,14 @@ This guide provides details on how to use the API and the responses it can gener
 https://intent.blockbuilders.host
 
 ## API Overview
-
 The Understand API takes a prompt from the player and analyzes it to understand the intention. 
 Depending on the analyzed intention, it returns a specific response code that corresponds to an action or information request in Minecraft.
 
 ## How to use
+> **Note:** What you'll need to use this demo:
+> - OpenAI API key
+> - Python or Node.js installed on your computer
+
 
 
 ## Response Codes
