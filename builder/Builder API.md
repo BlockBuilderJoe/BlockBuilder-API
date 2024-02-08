@@ -9,13 +9,13 @@ Can build any thing in Minecraft from a single prompt.
 ### Getting Started
 1. Deploy the model using Replicate from here: https://replicate.com/blockbuilderjoe/blockbuilder-shap-e
 	Click the button in the right hand side:  🚀Deploy
-	![[img/Screenshot 2024-02-07 at 10.14.39.png]]
+	![Screenshot1](img/Screenshot1.png)
 	
-2.  Set it up like the image below and click the button: Create a Deployment 
+3.  Set it up like the image below and click the button: Create a Deployment 
     > **📝 Note:** Requires an **Nvidia A40 GPU as a minimum** - the performance scales well with higher cards but it has the best price to performance with the A40 Tier
-   ![[img/Screenshot 2024-02-07 at 10.15.53.png]]
+   ![Screenshot2](img/Screenshot2.png)
    
-3. Now you can install Replicate: 
+4. Now you can install Replicate: 
 ```shell
 npm install replicate
 ```
