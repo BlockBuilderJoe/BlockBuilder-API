@@ -49,4 +49,14 @@ cd syntax
 python syntax.py
 ```
 
+## Output
+It will output a block, entity or item depending on what mode you selected.
+
+```json
+{ output: 'diamond_block' }
+```
+
+
+
+
 
