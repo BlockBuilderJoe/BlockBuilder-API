@@ -5,7 +5,14 @@
   - [ ] An OpenAI API key
   - [ ] Python or Node.js installed on your computer
 
-**📝 Note:** The demo relies on the [Understand API](understand/Understand%20API.md) to return the correct command.
+**📝 Note:** The demo relies on the [Understand API](understand/Understand%20API.md) for the intention variable.
+
+```
+{
+        "prompt": prompt,
+        "intent": intention,
+    }
+```
  
 ## Getting started.
 1. Save your API key to the local environment:
