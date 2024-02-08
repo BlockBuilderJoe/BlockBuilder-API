@@ -11,7 +11,7 @@ https://syntax.blockbuilders.host
 ```json
 {
   "prompt": "<your_prompt_here>",
-  "mode": "block" // Can be "block", "entity", or "item"
+  "mode": "block" 
 }
 ```
 
