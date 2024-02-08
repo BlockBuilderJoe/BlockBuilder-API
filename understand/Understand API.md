@@ -12,7 +12,7 @@ https://intent.blockbuilders.host
 
 ```json
 {
-  "prompt": "<your_prompt_here>",
+  "prompt": "<your_prompt_here>"
 }
 ```
 
