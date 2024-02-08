@@ -6,6 +6,16 @@ This guide provides details on how to use the API and the responses it can gener
 ## Base URL
 https://intent.blockbuilders.host
 
+### Request Format
+
+- prompt = What you want BlockBuilder AI to do 
+
+```json
+{
+  "prompt": "<your_prompt_here>",
+}
+```
+
 ## API Overview
 The Understand API takes a prompt from the player and analyzes it to understand the intention. 
 Depending on the analyzed intention, it returns a specific response code that corresponds to an action or information request in Minecraft.
