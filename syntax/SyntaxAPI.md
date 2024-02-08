@@ -53,7 +53,9 @@ python syntax.py
 It will output a block, entity or item depending on what mode you selected.
 
 ```json
-{ output: 'diamond_block' }
+data: {
+  output: 'diamond_block'
+}
 ```
 
 
