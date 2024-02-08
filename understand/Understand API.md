@@ -8,7 +8,7 @@ https://understand.blockbuilders.host
 
 ### Request Format
 
-- prompt = What you want BlockBuilder AI to do 
+prompt = What you want BlockBuilder AI to do 
 
 ```json
 {
