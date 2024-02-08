@@ -1,5 +1,7 @@
-## BlockBuilders Command overview
+## BlockBuilders Command API 
 
+Generates a bedrock command.
+ 
 **📝 Note:** What you'll need to use this demo:
 - **Requirements:**
   - [ ] An OpenAI API key
