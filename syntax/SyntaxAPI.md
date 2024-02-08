@@ -8,8 +8,8 @@ https://syntax.blockbuilders.host
 
 ### Request Format
 
-prompt = whatever you want to check for the closest syntax. 
-mode = Returns a block, entity or item depending on what you put into it.
+- prompt = whatever you want to check for the closest syntax. 
+- mode = Returns a block, entity or item depending on what you put into it.
 
 ```json
 {
