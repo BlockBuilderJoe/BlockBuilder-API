@@ -1,7 +1,11 @@
+### The Builder API
 
-> [!NOTE] What you'll need to use this demo.
-> - [ ] A Replicate account https://replicate.com
-> - [ ] Python or Node.js installed on your computer 
+Can build any thing in Minecraft from a single prompt. 
+
+> **Note:** What you'll need to use this demo:
+> - A Replicate account (https://replicate.com)
+> - Python or Node.js installed on your computer
+
 ### Getting Started
 1. Deploy the model using Replicate from here: https://replicate.com/blockbuilderjoe/blockbuilder-shap-e
 	Click the button in the right hand side:  🚀Deploy
