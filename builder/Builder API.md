@@ -27,9 +27,16 @@ npm install replicate
 pip install replicate
 ```
 4. Then export your Replicate API key as an environment variable. 
+Windows
+```powershell
+setx REPLICATE_API_TOKEN “<yourkey>”
+```
+Linux/MacOS
 ```shell
 export REPLICATE_API_TOKEN=<paste-your-token-here>
 ```
+
+
 5. Edit the Inputs: 
 For Javascript you can edit them here: builder/js_build/blockbuilder.js
 ```javascript
