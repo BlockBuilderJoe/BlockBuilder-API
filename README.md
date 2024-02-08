@@ -1,6 +1,10 @@
 ### BlockBuilders AI API Usage Guide
 ## What is it?
-A guide for how to use the APIs of our Blockbuilder AI. With a bunch of getting started scripts to give you a headstart for playing with it yourself.
+
+A demo of a series of APIs that are ChatGPT based Minecraft Experts. It can build and write commands for you! 
+
+Below is a guide for how to use the APIs of our Blockbuilder AI. With a bunch of getting started scripts to give you a headstart for playing with it yourself.
+
 ## How does it work? 
 There are six different APIs that take a prompt as an input and are trained in a particular Minecraft specialism:
 - **Builder API** - Builds a Minecraft model from a prompt using Shap-e on Replicate.
