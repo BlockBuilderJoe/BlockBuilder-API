@@ -19,7 +19,7 @@ Can build any thing in Minecraft from a single prompt.
     > **📝 Note:** Requires an **Nvidia A40 GPU as a minimum** - the performance scales well with higher cards but it has the best price to performance with the A40 Tier
    ![Screenshot2](../img/Screenshot2.png)
 
-**⚠️ Warning:** Always remember to manually stop your Replicate Deployment when you are finished playing with it.
+### **⚠️ Warning:** Always remember to manually stop your Replicate Deployment when you are finished playing with it.
 
 4. Now you can install Replicate: 
 ```shell
