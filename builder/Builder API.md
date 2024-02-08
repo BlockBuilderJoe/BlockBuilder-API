@@ -4,7 +4,7 @@ Can build any thing in Minecraft from a single prompt.
 
 > **Note:** What you'll need to use this demo:
 > - A Replicate account (https://replicate.com)
-> - A card to pay for Replicate deployment. 
+> - A card to pay for the Replicate deployment. 
 > - Python or Node.js installed on your computer
 
 ### Getting Started
