@@ -31,9 +31,15 @@ Returns a command object with the string of a Minecraft command.
 **Please use a burner API key for this demo.** Do not use your primary API key. A burner API key is a temporary key that you can easily revoke or discard after playing with the demo.
 
 1. Save your API key to the local environment:
+Windows
+```powershell
+setx OPENAI_API_KEY “<yourkey>”
+```
+Linux/MacOS
 ```shell
 export OPENAI_API_KEY=<paste-your-token-here>
 ```
+
 2. Change the prompt variable:
 For Javascript: commands/command.js
 ```javascript
