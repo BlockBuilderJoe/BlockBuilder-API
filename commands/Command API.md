@@ -21,7 +21,7 @@ https://commands.blockbuilders.host
 
 **📝 Note:** What you'll need to use this demo:
 - **Requirements:**
-  - [ ] An OpenAI API key
+  - [ ] An Temporary burner OpenAI API key
   - [ ] Python or Node.js installed on your computer
 
 ## ⚠️ Important Security Warning
