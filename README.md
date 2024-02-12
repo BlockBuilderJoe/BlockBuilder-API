@@ -7,6 +7,12 @@ This is the backbone of BlockBuilder AI (coming soon).
 
 Below is a guide for how to use the APIs, it has a number of scripts to get you going.
 
+### **⚠️ Warning:** The Disclaimers
+- This project is not an official Minecraft Product and is not approved by or associated with Mojang or Microsoft. 
+- This is beta software and uses AI, so please don't use on any worlds that are precious to you!
+- It uses your API keys so you will be charged by Replicate and OpenAI for using it, set limits in your account so it doesn't spend money you don't want it to. 
+- Always use a burner API key for this project and any other project you come across. Do not use your primary API key. A burner API key is a temporary key that you can easily revoke or discard after playing with the demo.
+
 ## How does it work? 
 There are five different APIs that take a prompt as an input and are trained in a particular Minecraft specialism:
 - **Builder API** - Builds a Minecraft model from a prompt using Shap-e on Replicate.
